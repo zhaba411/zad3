@@ -17,4 +17,5 @@ if __name__ == "__main__": # вызов
             work_list.append(to_add_string)
         else:
             break
+
     print(gay(work_list))
